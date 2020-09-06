@@ -34,9 +34,9 @@ contract Math {
 
     function getDiv (uint _num1, uint _num2) public view returns (uint) {
 
-       uint num6 = _num1 / _num2;
+       uint num7 = _num1 / _num2;
 
-        return num6;
+        return num7;
 
     }
 
